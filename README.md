@@ -1,5 +1,6 @@
-Tunnel Vision Color Scheme
-==========================
+# Tunnel Vision Color Scheme
+
+## About
 
 A Sublime Text color scheme inspired by [jturcotte's SublimeChubyNinja][1], and edited using [Aziz's][2] [tmTheme-Editor][3].
 
